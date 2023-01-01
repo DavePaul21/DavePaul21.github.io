@@ -19,9 +19,9 @@ timezone: Africa/Nairobi
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "Dave Githinji"                          # the main title
+title: Dave Githinji                          # the main title
 
-tagline: "Portfolio Page"   # it will display as the sub-title
+tagline: Portfolio Page   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   An overview of my FrontEnd Dev Skill 
@@ -30,16 +30,16 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://DavePaul21.github.io'
 
 github:
-  username: "DavePaul21"             # change to your github username
+  username: DavePaul21             # change to your github username
 
 twitter:
-  username: "@oxydav"            # change to your twitter username
+  username: @oxydav            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: "Dave G"
-  email: "oxynetz@gmail.com"            # change to your email address
+  email: oxynetz@gmail.com           # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/oxydav      # change to your twitter homepage
